@@ -1,0 +1,11 @@
+modlistLocation = "C:\Path\To\MO2\profiles\The Midnight Ride\modlist.txt"
+downloadLocation = "C:\Path\To\MO2\downloads"
+outputLocation = "C:\Path\To\themidnightride-wabbajack"
+modlistName = "The Midnight Ride"
+version = "0.0.1"
+author = "Qolore & TDarkShadow"
+description = "The Midnight Ride is a lite modlist that tries to stay as close as possible to vanilla, but provides a stable, smooth, and most importantly, enjoyable experience."
+image = "C:\Path\To\themidnightride-wabbajack\background.png"
+website = "https://themidnightride.github.io/"
+readme = "https://github.com/TDarkShadow/themidnightride-wabbajack/blob/master/README.md"
+nsfw = false
