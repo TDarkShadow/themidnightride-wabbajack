@@ -1,5 +1,13 @@
-# Wabbajack compilation configuration
-wjcompile.toml
+# Ignore compiled Wabbajack file
+*.wabbajack
 
-# Compiled wabbajack file
-The Midnight Ride.wabbajack
+# Ignore local compilation file
+wjcompile.local.ini
+
+# Ignore old comparison files
+*-old.*
+
+# Ignore zipped files
+*.7z
+*.rar
+*.zip
