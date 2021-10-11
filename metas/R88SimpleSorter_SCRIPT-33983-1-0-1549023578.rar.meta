@@ -1,0 +1,19 @@
+[General]
+gameName=Fallout4
+modID=33983
+fileID=151298
+url=
+name=R88SimpleSorter_SCRIPT
+description=SCRIPT File - See description for installation instructions.\n<br />CHANGELOG: Bug fixes for XEdit errors: 336 and 890\n<br />REQUIRES XEdit to be up to date.\n<br />Includes BAT file for simple patching. Just double click on the BAT to auto run the patch.
+modName=Ruddy88's Simple Sorter
+version=1.0.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=38
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

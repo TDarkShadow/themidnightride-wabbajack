@@ -1,0 +1,19 @@
+[General]
+gameName=Skyrim
+modID=68617
+fileID=1000194968
+url=
+name=MXPF-a
+description=Update v1.1. Added macros.
+modName=MXPF - Mator's xEdit Patching Framework
+version=1.1.0.0
+newestVersion=0.0.0.0
+fileTime="@DateTime(\0\0\0\x10\0\0\0\0\0\0%=\x9c\x4\x8b\xd4y\0)"
+fileCategory=1
+category=39
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true
