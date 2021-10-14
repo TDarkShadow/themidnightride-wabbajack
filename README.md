@@ -2,7 +2,7 @@
 
 ## MODLIST SUMMARY <!-- omit in toc -->
 
- The Midnight Ride is a lite modlist that tries to stay as close as possible to vanilla, but provides a stable, smooth, and most importantly, enjoyable experience. The guide is highly accessible for everyone, no matter your modding experience. You can find the (manual) guide at <https://themidnightride.github.io>. This modlist functions as a one-click install to have the guide installed and improves Fallout 4 with increased performance, many bugfixes, some gameplay improvements, and quality of life extras.
+ The Midnight Ride is a lite modlist that tries to stay as close as possible to vanilla, but provides a stable, smooth, and most importantly, enjoyable experience. The guide is highly accessible for everyone, no matter your prior modding experience. You can find the manual guide at <https://themidnightride.github.io>. This modlist functions as a one-click install of the guide. The list improves Fallout 4 with increased performance, bugfixes, gameplay improvements, and quality of life tweaks.
 
 ## TABLE OF CONTENTS <!-- omit in toc -->
 - [REQUIREMENTS](#requirements)
@@ -13,6 +13,7 @@
   - [Set the Game language to English](#set-the-game-language-to-english)
   - [Remove High Resolution Texture Pack DLC](#remove-high-resolution-texture-pack-dlc)
   - [Remove Creation Club Content](#remove-creation-club-content)
+  - [Change Steams Update Behavior](#change-steams-update-behavior)
   - [Pre Modlist Installation Instructions](#pre-modlist-installation-instructions)
 - [MODLIST INSTALLATION](#modlist-installation)
   - [Modlist Installation Instructions](#modlist-installation-instructions)
@@ -36,11 +37,11 @@
   * 750 MB for the mod downloads.
   * 1,1 GB for the modlist installation.
 * A [Nexusmods](https://www.nexusmods.com/) account.
-  * Nexus Premium is not necessary, but will help to download the modlist faster.
+  * Nexus Premium is not necessary, but is needed for automated downloads and will speed up the process.
 
 ## PREPARATION
 
-These steps are only needed if you install this Modlist for the first time. If you are updating the Modlist, jump straight to [UPDATING](#updating).
+These steps are only needed if you are installing this Modlist for the first time. If you are updating the Modlist, jump straight to [UPDATING](#updating).
 
 ### Installing Microsoft Visual C++ Redistributable Package
 
@@ -91,6 +92,15 @@ At the moment, Creation Club content / mods are not supported. This step is opti
 
 1. Navigate to your Fallout 4 installation folder and go into the **Data** folder.
 2. Remove all files starting with "**cc**", such as "**cc**BGSFO4016-Prey - Main".
+
+### Change Steams Update behavior
+
+Occasionally, Fallout 4 recieves new updates on steam. This can break modded setups, and updating should be avoided until mods can be patched.
+
+1. Open **Steam** and go to your **Library**.
+2. Find **Fallout 4** in the list.
+3. Right-click on it and select **Properties...**.
+4. Under **Updates** select **Only update this game when I launch it**.
 
 ### Pre Modlist Installation Instructions
 
@@ -159,7 +169,7 @@ Ask it in the [Viva New Vegas Discord](https://discord.gg/DhX5S27). The support 
 
 ### I want to support your work!
 
-I thank you for that thought but you should probably donate to Qolore first. You can find his Patreon [here](https://www.patreon.com/vivanewvegas) or his Paypal [here](https://www.patreon.com/vivanewvegas). If you want to support Wabbajack, go [here](https://www.patreon.com/user/overview?u=11907933).
+I thank you for that thought but you should probably donate to Qolore first. You can find his Patreon [here](https://www.patreon.com/vivanewvegas) or his Paypal [here](https://www.paypal.com/paypalme/qolore7). If you want to support Wabbajack, go [here](https://www.patreon.com/user/overview?u=11907933).
 
 ## CREDITS AND THANKS
 
@@ -168,6 +178,6 @@ I thank you for that thought but you should probably donate to Qolore first. You
 * ALL the mod authors that made the mods featured in this list.
 * Halgari and everyone in the Wabbajack Team.
 * Trawzified, Lively, and Kaethela for guiding me into this endavour.
-* LadyZeefa for making the first steps to have Viva New Vegas available on Wabbajack.
+* Drazden, the coolest moderator on Wabbajack
 
 ##### This readme is based off of [Starstruck Courier's readme](https://github.com/Kaethela/Starstruck-Courier/blob/main/README.md) and [Qwest's readme](https://github.com/SovnSkyrim/QWEST/blob/main/README.md). <!-- omit in toc -->
