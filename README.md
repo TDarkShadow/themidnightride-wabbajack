@@ -33,9 +33,9 @@
   * Also known as Fallout 4: Game of the Year Edition.
   * **Acquired through [Steam](https://store.steampowered.com/app/377160/).**
 * Around 36 GB of free space.
-  * 34.3 GB for Fallout 4 itself.
+  * 34,3 GB for Fallout 4 itself.
   * 750 MB for the mod downloads.
-  * 1.1 GB for the modlist installation.
+  * 1,1 GB for the modlist installation.
 * A [Nexusmods](https://www.nexusmods.com/) account.
   * Nexus Premium is not necessary, but is needed for automated downloads and will speed up the process.
 
