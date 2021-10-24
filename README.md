@@ -13,7 +13,7 @@
   - [Set the Game language to English](#set-the-game-language-to-english)
   - [Remove High Resolution Texture Pack DLC](#remove-high-resolution-texture-pack-dlc)
   - [Remove Creation Club Content](#remove-creation-club-content)
-  - [Change Steams Update Behavior](#change-steams-update-behavior)
+  - [Change Steams Update behavior](#change-steams-update-behavior)
   - [Pre Modlist Installation Instructions](#pre-modlist-installation-instructions)
 - [MODLIST INSTALLATION](#modlist-installation)
   - [Modlist Installation Instructions](#modlist-installation-instructions)
@@ -120,20 +120,18 @@ Occasionally, Fallout 4 recieves new updates on steam. This can break modded set
 
 ### Modlist Installation Instructions
 
-1. Download the latest version of Wabbajack.
+1. Download the latest version of [Wabbajack](https://www.wabbajack.org/).
 2. Create a new folder anywhere that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
-3. Place the downloaded Wabbajack.exe into this folder.
-4. Download the latest [Wabbajack file](https://github.com/TDarkShadow/themidnightride-wabbajack/releases/latest) of this modlist.
-5. Run **Wabbajack.exe**.
-6. Select **Install From Disk**. Click on **···** next to **Target Modlist** to browse for the downloaded modlist.
-7. In **Installation Location** select an empty folder that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
+3. Run **Wabbajack.exe**.
+4. Locate **The Midnight Ride** on the gallery and click the down arrow to download the modlist file.
+5. In **Installation Location** select an empty folder that is **NOT** under `C:\Program Files`, `C:\Users`, or `C:\Windows`.
    * Do **not** install this list in your **Steam**, **Fallout 4** folder or the folder with **Wabbajack.exe**.
-8. The downloads location will auto-populate. This can be changed if preferred.
-9.  Click the button with the Play Arrow to begin the process.
-10. Accept the Nexusmods API request if asked.
-11. Wabbajack will now automatically download and install every necessary mod.
+6. The downloads location will auto-populate. This can be changed if preferred.
+7.  Click the button with the Play Arrow to begin the process.
+8.  Accept the Nexusmods API request if asked.
+9.  Wabbajack will now automatically download and install every necessary mod.
     * If you don't have Nexus Premium, you'll have to manually click download for all the mods, but Wabbajack will still install them.
-12. When Wabbajack completes you will see either a green **Installation Complete** screen or a red **Installation Failed** screen. If successful, proceed.
+10. When Wabbajack completes you will see either a green **Installation Complete** screen or a red **Installation Failed** screen. If successful, proceed.
 
 ### Post Installation Instructions
 
